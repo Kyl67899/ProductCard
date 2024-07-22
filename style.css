@@ -68,7 +68,7 @@ img.img {
 .name {
   font-family: var(--font-family2);
   padding-top: 0;
-  font-size: 50px;
+  font-size: 42px;
   display: flex;
   flex-wrap: nowrap;
 }
