@@ -116,11 +116,14 @@ img.img {
   border-radius: 8px;
 }
 
-.btn span.icon{
-  background: url("") no-repeat left center;
-  background-color: var(--bg);
-  width: 10px;
-  height: 40px;
+.btn:hover{
+  background-color: var(--background-btn-price1);
+}
+
+.btn:focus-visible{
+  background-color: var(--background-btn-price1);
+  outline: 2px solid var(--para);
+  outline-offset: 4px;
 }
 
 .footer {
