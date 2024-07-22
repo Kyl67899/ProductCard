@@ -39,11 +39,10 @@ img.img {
   flex-direction: row;
   align-items: center;
   width: 45em;
-  height: 32em;
+  height: 26em;
   background-color: var(--card-bg);
   color: var(--text);
   border-radius: 25px;
-
   /* max-width: 500px; */
   margin: 0 auto;
 }
