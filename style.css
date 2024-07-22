@@ -41,7 +41,7 @@ img.img {
   flex-direction: row;
   align-items: center;
   width: 45em;
-  height: 30em;
+  height: 32em;
   background-color: var(--card-bg);
   color: var(--text);
   border-radius: 25px;
