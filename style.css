@@ -143,10 +143,8 @@ img, picture{
 }
 
 @media screen and (max-width: 425px) {
-  img.img {
-    /* background-image: url("./images/image-product-mobile.jpg"); */
-    /* border-radius: 20px 0 0 20px; */
-    width: 215px;
+  img, picture {
+    border-radius: 0;
   }
 
   .card{
