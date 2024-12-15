@@ -46,8 +46,6 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 - CSS custom properties
 - Flexbox
 - 
-**Note: These are just examples. Delete this note and replace the list above with your own choices**
-
 ### What I learned
 
 I learned how to use sematic html to build the foundation of the box then used css to style the box and make the website responsive just like it is in the images provided. I used flexbox and media queries to make the box columns and used media queries to make the website responsive for all devices.
